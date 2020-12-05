@@ -1,6 +1,6 @@
 {
   "name": "codyschool",
-  "version": "1.0.0",
+  "private": "true",
   "description": "Design System with LitElement",
   "main": "index.js",
   "scripts": {

@@ -1,2 +1,7 @@
-# codyschool
-Design System with LitElement
+# Codyschool UI
+
+> Design System with LitElement
+
+## License
+
+MIT © [Dang Van Thanh](http://dangthanh.org)
