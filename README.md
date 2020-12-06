@@ -2,6 +2,11 @@
 
 > Design System with LitElement
 
+## Components
+
+[ ] Avatar
+[ ] Pagination
+
 ## License
 
-MIT © [Dang Van Thanh](http://dangthanh.org)
+MIT Â© [Dang Van Thanh](http://dangthanh.org)
