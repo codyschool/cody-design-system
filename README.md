@@ -6,6 +6,12 @@
 
 [ ] Avatar
 [ ] Pagination
+[ ] Switches
+[ ] Tooltip
+[ ] Tabs
+[ ] Rating
+[ ] Accordion
+[ ] Slider
 
 ## License
 

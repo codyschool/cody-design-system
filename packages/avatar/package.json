@@ -1,0 +1,32 @@
+{
+  "name": "codyschool-avatar",
+  "version": "1.0.0",
+  "description": "Avatar component using LitElement",
+  "main": "index.js",
+  "scripts": {
+    "serve": "es-dev-server --app-index index.html --node-resolve --watch --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyschool/codyschool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codyschool/codyschool/issues"
+  },
+  "homepage": "https://github.com/codyschool/codyschool#readme",
+  "dependencies": {
+    "lit-element": "^2.4.0"
+  },
+  "devDependencies": {
+    "es-dev-server": "^1.60.1"
+  },
+  "prettier": {
+    "printWidth": 80,
+    "trailingComma": "es5",
+    "semi": false,
+    "singleQuote": true
+  }
+}
