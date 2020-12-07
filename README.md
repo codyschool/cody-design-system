@@ -4,14 +4,14 @@
 
 ## Components
 
-[ ] Avatar
-[ ] Pagination
-[ ] Switches
-[ ] Tooltip
-[ ] Tabs
-[ ] Rating
-[ ] Accordion
-[ ] Slider
+- [ ] Avatar
+- [ ] Pagination
+- [ ] Switches
+- [ ] Tooltip
+- [ ] Tabs
+- [ ] Rating
+- [ ] Accordion
+- [ ] Slider
 
 ## License
 
