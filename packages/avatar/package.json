@@ -4,7 +4,7 @@
   "description": "Avatar component using LitElement",
   "main": "index.js",
   "scripts": {
-    "serve": "es-dev-server --app-index index.html --node-resolve --watch --open"
+    "serve": "web-dev-server"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
     "lit-element": "^2.4.0"
   },
   "devDependencies": {
-    "es-dev-server": "^1.60.1"
+    "@web/dev-server": "^0.0.26"
   },
   "prettier": {
     "printWidth": 80,
