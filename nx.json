@@ -23,5 +23,8 @@
     "build": {
       "dependsOn": ["^build"]
     }
+  },
+  "cli": {
+    "defaultCollection": "@nxext/stencil"
   }
 }

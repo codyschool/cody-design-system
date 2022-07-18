@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@cody-design-system/core": ["dist/libs/core"],
+      "@cody-design-system/core/loader": ["dist/libs/core/loader"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
