@@ -1,18 +1,10 @@
-# Codyschool UI
+# Cody Design System
 
-> Design System with LitElement
+> Design System with Web Components
 
 ## Components
 
-- [ ] Avatar
-- [ ] Pagination
-- [ ] Switches
-- [ ] Tooltip
-- [ ] Tabs
-- [ ] Rating
-- [ ] Accordion
-- [ ] Slider
 
 ## License
 
-MIT © [Dang Van Thanh](http://dangthanh.org)
+MIT © [Dang Van Thanh](https://dangthanh.org)
