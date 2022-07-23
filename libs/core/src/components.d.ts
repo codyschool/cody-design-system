@@ -7,14 +7,8 @@
 import { HTMLStencilElement, JSXBase } from "@stencil/core/internal";
 export namespace Components {
     interface MyComponent {
-        "daysNames": string[];
-        "monthNames": string[];
-        "showFillDays": boolean;
+        "name": string;
     }
-}
-export interface MyComponentCustomEvent<T> extends CustomEvent<T> {
-    detail: T;
-    target: HTMLMyComponentElement;
 }
 declare global {
     interface HTMLMyComponentElement extends Components.MyComponent, HTMLStencilElement {
@@ -29,11 +23,7 @@ declare global {
 }
 declare namespace LocalJSX {
     interface MyComponent {
-        "daysNames"?: string[];
-        "monthNames"?: string[];
-        "onDayChanged"?: (event: MyComponentCustomEvent<CalendarEntry>) => void;
-        "onMonthChanged"?: (event: MyComponentCustomEvent<CalendarEntry>) => void;
-        "showFillDays"?: boolean;
+        "name"?: string;
     }
     interface IntrinsicElements {
         "my-component": MyComponent;
